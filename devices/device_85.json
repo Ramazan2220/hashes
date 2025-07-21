@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12.0.1",
+    "android_release": "12.0.1",
+    "dpi": "440dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "xiaomi",
+    "device": "Mi 11",
+    "model": "Mi 11",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12.0.1/12.0.1; 440dpi; 1080x2340; xiaomi; Mi 11; mi-11; qcom)",
+    "device_id": "android-7907fce53e524495",
+    "phone_id": "a5942d23540e213f953e88e59e53a7c6-d9778bbf317be3e6ad3c905ad6b81758",
+    "uuid": "43be5a9a-8cfd-c57f-b8e2-2fba043a8040",
+    "device_name": "xiaomi Mi 11"
+}

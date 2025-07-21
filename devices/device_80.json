@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "13",
+    "android_release": "13",
+    "dpi": "480dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "google",
+    "device": "Pixel 4a",
+    "model": "Pixel 4a",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (13/13; 480dpi; 1440x3200; google; Pixel 4a; pixel-4a; qcom)",
+    "device_id": "android-7e2d6d9d4053f0e1",
+    "phone_id": "981154f4c3c8e0629c2a75135fc598ed-c3e90637ae3d5f016d1eb18822c06201",
+    "uuid": "4aa26bef-a861-a3f0-bff9-9ccd2a18bf9c",
+    "device_name": "google Pixel 4a"
+}

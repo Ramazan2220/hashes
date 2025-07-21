@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12.0.1",
+    "android_release": "12.0.1",
+    "dpi": "440dpi",
+    "resolution": "1080x2280",
+    "manufacturer": "xiaomi",
+    "device": "POCO F3",
+    "model": "POCO F3",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12.0.1/12.0.1; 440dpi; 1080x2280; xiaomi; POCO F3; poco-f3; qcom)",
+    "device_id": "android-91404256952e72f3",
+    "phone_id": "f417d3557f783b6c5a10dc3c46c9fece-3ce4121fe05a7e75189148d2e12d41bf",
+    "uuid": "6be44346-0e96-b67c-d468-78f640634b7b",
+    "device_name": "xiaomi POCO F3"
+}

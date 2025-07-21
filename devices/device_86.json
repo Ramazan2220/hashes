@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12.0.1",
+    "android_release": "12.0.1",
+    "dpi": "420dpi",
+    "resolution": "1080x2400",
+    "manufacturer": "samsung",
+    "device": "SM-A715F",
+    "model": "SM-A715F",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12.0.1/12.0.1; 420dpi; 1080x2400; samsung; SM-A715F; sm-a715f; qcom)",
+    "device_id": "android-d52e1b3f185e467c",
+    "phone_id": "88b64717790443f2e1f28f54eb7ad91d-b33aae79a24056ff82a816d09d2b478b",
+    "uuid": "a138e47a-ead1-9eef-1692-c5b6ee857af3",
+    "device_name": "samsung SM-A715F"
+}

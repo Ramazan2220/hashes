@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12.0.1",
+    "android_release": "12.0.1",
+    "dpi": "420dpi",
+    "resolution": "1080x2400",
+    "manufacturer": "oneplus",
+    "device": "9",
+    "model": "9",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12.0.1/12.0.1; 420dpi; 1080x2400; oneplus; 9; 9; qcom)",
+    "device_id": "android-11f4dccab47fa314",
+    "phone_id": "27c785fdc2bf955066371bed488fd193-a8bc7f41b90df584e535ee6a8a0b5ee0",
+    "uuid": "eb099bd3-63e3-1774-4765-0e23977e0c6e",
+    "device_name": "oneplus 9"
+}

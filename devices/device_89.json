@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "12",
+    "android_release": "12",
+    "dpi": "480dpi",
+    "resolution": "1080x2340",
+    "manufacturer": "samsung",
+    "device": "SM-G980F",
+    "model": "SM-G980F",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (12/12; 480dpi; 1080x2340; samsung; SM-G980F; sm-g980f; qcom)",
+    "device_id": "android-207955ba478ab1c1",
+    "phone_id": "06e25a454b81f42b960752f41f382778-96faef55c58203b3ba43df9a4f8941d1",
+    "uuid": "afb03089-e858-c518-3399-139089d74d68",
+    "device_name": "samsung SM-G980F"
+}

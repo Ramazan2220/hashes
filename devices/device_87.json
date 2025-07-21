@@ -1,0 +1,17 @@
+{
+    "app_version": "269.0.0.18.75",
+    "android_version": "10.0",
+    "android_release": "10.0",
+    "dpi": "480dpi",
+    "resolution": "1440x3200",
+    "manufacturer": "xiaomi",
+    "device": "Redmi Note 10 Pro",
+    "model": "Redmi Note 10 Pro",
+    "cpu": "qcom",
+    "version_code": "365203812",
+    "user_agent": "Instagram 269.0.0.18.75 Android (10.0/10.0; 480dpi; 1440x3200; xiaomi; Redmi Note 10 Pro; redmi-note-10-pro; qcom)",
+    "device_id": "android-e0805406df7efba8",
+    "phone_id": "5099147669074ff38ad47eb5c6e882e1-61cf74254f8c27fc76ae64c703bef3da",
+    "uuid": "43d53928-8818-8549-5031-5d2805bbc206",
+    "device_name": "xiaomi Redmi Note 10 Pro"
+}
